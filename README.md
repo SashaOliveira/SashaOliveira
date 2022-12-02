@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SashaOliveira
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Front End Development ;D
-- 💞️ I’m looking to collaborate on crating the best web pages and apps all around the INTERNET
+- 💞️ I’m looking to collaborate on creating the best web pages and apps all around the INTERNET
 - 📫 How to reach me @aleksandrastoliarova on Linkedin
 
 <!---
