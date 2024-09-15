@@ -1,1 +1,1 @@
-
+Aspiring Front-End Developer transitioning from a four-year career in Finance. I completed an intensive full-stack web developer bootcamp at Le Wagon focused on Ruby on Rails/HTML/CSS/Javascript, and I'm currently taking a React Developer Bootcamp online as I build a portfolio focused on Responsive Web Apps. I’m eager to apply my skills in a real-world setting, I’m actively seeking an entry-level Junior Front-End Developer where I can grow, learn, and contribute to delivering impactful solutions.
